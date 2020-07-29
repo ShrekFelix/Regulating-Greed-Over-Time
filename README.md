@@ -1,3 +1,1 @@
-# Regulating-Greed-Over-Time
-## Publication
-Tracà, Stefano, and Cynthia Rudin. "Regulating greed over time." arXiv preprint arXiv:1505.05629 (2015).
+This is the simulation code for the paper [Regulating Greed Over Time](https://jmlr.csail.mit.edu/manudb/center/getfile2/12923/manuscript/JMLR-17-720-2.pdf)
